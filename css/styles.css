@@ -1,0 +1,11 @@
+body {
+  background-image: url("../image/geo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-weight: normal;
+  font-size: 23px;
+}
+h1, h2,  p {
+  color: white;
+}
