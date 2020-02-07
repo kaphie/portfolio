@@ -4,8 +4,15 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-weight: normal;
-  font-size: 23px;
+  font-size: 25px;
+  text-align: center;
 }
-h1, h2,  p {
+h1, h2, h3, h4, h5,  p {
   color: white;
+}
+li{
+  color: white;
+}
+.pet{
+  text-align:center;
 }
