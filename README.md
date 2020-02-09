@@ -6,7 +6,7 @@ Author:Kafrika Benitah
 
 Project Description:To showcase my progress in Moringa school
 
-Link to live site on GutHub pages:
+Link to live site on GutHub pages:https://kaphie.github.io/portfolio
 
 Project setup instructions:
 Congratulations on beginning your journey toward becoming a developer! As a developer, you need a web portfolio to showcase your work. Today, you will be creating the landing page for your programming portfolio. 
