@@ -30,8 +30,8 @@ There are no bugs experienced at the moment since we are still working on the pr
 The languages and tools used to create the website are (HTML and CSS)
 
 ### Support and contact details
-Incase of any problems dont hesistate to contact me on 
+Incase of any problems dont hesistate to contact me on <br>
  Email: Bkafrika144@gmail.com
 
 ### Copyright and license information: 
-MIT &copy; kaphie 
+MIT &copy; kaphie  
