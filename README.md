@@ -23,4 +23,4 @@ Your background (for example, your education, job experience, a paragraph on why
 Your current interests/hobbies/skills
 Deploy your site onto GitHub pages so that a live site can be viewed at your-username.github.io/portfolio (for example)
 
-Copyright and license information: MIT &copy; kaphie
+Copyright and license information: MIT &copy; kaphie 
