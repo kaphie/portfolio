@@ -4,7 +4,7 @@ Project name:My-Portfolio
 
 Author:Kafrika Benitah
 
-Project Description:To showcase my progress in Moringa school
+Project Description:To showcase my progress in Moringa school so far
 
 Link to live site on GutHub pages:https://kaphie.github.io/portfolio
 
@@ -23,4 +23,4 @@ Your background (for example, your education, job experience, a paragraph on why
 Your current interests/hobbies/skills
 Deploy your site onto GitHub pages so that a live site can be viewed at your-username.github.io/portfolio (for example)
 
-Copyright and license information:_____________________
+Copyright and license information: MIT &copy; kaphie
