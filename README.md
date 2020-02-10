@@ -23,5 +23,11 @@ Your background (for example, your education, job experience, a paragraph on why
 Your current interests/hobbies/skills
 Deploy your site onto GitHub pages so that a live site can be viewed at your-username.github.io/portfolio (for example)
 
+## Bugs
+There are no bugs experienced at the moment since we are still working on the project.
+
+## Language used
+The languages and tools used to create the website are (HTML and CSS)
+
 ### Copyright and license information: 
 MIT &copy; kaphie 
